@@ -1,7 +1,7 @@
 # NOTE: Until you fill in the TTTBoard class mypy is going to give you multiple errors
 # talking about unimplemented class attributes, don't worry about this as you're working
 
-# Adding some comments
+# Adding some more comments
 
 class TTTBoard:
     """A tic tac toe board
